@@ -1,0 +1,6 @@
+回声“＃R_box” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin https://github.com/R1312676006/R_box.git
+ git push -u origin master
